@@ -1,6 +1,6 @@
 # 💻 Profil Profesional  
 
-![Hacker GIF](hacker.gif)
+![Hacker GIF](icegif-93.gif)
 
 Saya adalah seorang profesional di bidang **keamanan siber, pengembangan perangkat lunak, dan analisis data** dengan spesialisasi dalam **pengujian penetrasi, eksploitasi keamanan, dan pengembangan alat otomatisasi**. Saya memiliki pengalaman dalam berbagai aspek keamanan digital serta memahami praktik etis dalam dunia teknologi.
 
