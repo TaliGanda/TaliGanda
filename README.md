@@ -1,5 +1,7 @@
 # 💻 Professional Cybersecurity & Development Profile  
 
+![Hacker GIF](icegif-93.gif)
+
 I am a **Cybersecurity Specialist, Software Developer, and Digital Analyst** with expertise in **penetration testing, security research, and automation tool development**. My passion lies in **identifying vulnerabilities, strengthening digital infrastructures, and building secure solutions** while maintaining ethical cybersecurity practices.  
 
 ---
