@@ -1,58 +1,59 @@
-# 💻 Profil Profesional  
+# 💻 Professional Cybersecurity & Development Profile  
 
-![Hacker GIF](icegif-93.gif)
-
-Saya adalah seorang profesional di bidang **keamanan siber, pengembangan perangkat lunak, dan analisis data** dengan spesialisasi dalam **pengujian penetrasi, eksploitasi keamanan, dan pengembangan alat otomatisasi**. Saya memiliki pengalaman dalam berbagai aspek keamanan digital serta memahami praktik etis dalam dunia teknologi.
+I am a **Cybersecurity Specialist, Software Developer, and Digital Analyst** with expertise in **penetration testing, security research, and automation tool development**. My passion lies in **identifying vulnerabilities, strengthening digital infrastructures, and building secure solutions** while maintaining ethical cybersecurity practices.  
 
 ---
 
-## 🛠 Keahlian dan Bidang yang Dikuasai  
+## 🛠 Skills & Expertise  
 
-### 🔹 Scripting Language  
-Menguasai berbagai bahasa pemrograman seperti **Python, JavaScript, Bash, dan PHP** untuk pengujian keamanan, analisis malware, serta pengembangan tools otomatisasi.
+### 🔹 Scripting Language & Coding 💻  
+Proficient in **Python, JavaScript, Bash, and PHP** for **security automation, ethical hacking, and malware analysis**.  
 
-### 🔹 Deface  
-Memahami teknik deface baik secara manual maupun otomatis dengan eksploitasi **kerentanan CMS, server, dan database** serta memiliki wawasan dalam **mitigasi dan forensik** untuk pemulihan.
+### 🔹 Website Security & Defacement 🌊  
+Experienced in analyzing and exploiting **CMS, server, and database vulnerabilities**, while also understanding **mitigation and recovery techniques**.  
 
-### 🔹 Cracking  
-Berpengalaman dalam teknik **password cracking, reverse engineering, dan bypass proteksi software** menggunakan metode **brute force, dictionary attack, hash cracking, dan deobfuscation**.
+### 🔹 Cracking & Reverse Engineering ⛓‍💥  
+Deep knowledge of **password cracking, software reverse engineering, and security bypass** using techniques like **brute force, dictionary attacks, and deobfuscation**.  
 
-### 🔹 DDoS (Distributed Denial of Service)  
-Memahami berbagai teknik DDoS seperti **volumetric attacks, protocol attacks, dan application-layer attacks**, serta strategi mitigasi melalui **Cloudflare, firewall, dan load balancing**.
+### 🔹 DDoS Attack & Defense 🚀  
+Understanding of **volumetric, protocol, and application-layer DDoS attacks**, as well as **firewall protection, Cloudflare, and mitigation techniques**.  
 
-### 🔹 Doxing [ID, MLY, USA, RUSIA]  
-Menguasai teknik **OSINT (Open-Source Intelligence)** untuk investigasi individu atau organisasi dengan mengumpulkan data dari **sumber publik, database bocor, dan teknik pencarian lanjutan**.
+### 🔹 DOXING & OSINT 👀 [ID, MLY, USA, RUSSIA]  
+Skilled in **Open-Source Intelligence (OSINT)** to conduct digital investigations, track digital footprints, and analyze leaked data from public sources.  
 
-### 🔹 Kemampuan Motivasi  
-Mampu membangun dan memotivasi tim dalam lingkungan kerja yang menuntut **analisis cepat dan pengambilan keputusan strategis**.
+### 🔹 Motivation Skills 👥  
+Capable of **leading and inspiring teams** in high-pressure cybersecurity environments, ensuring **collaborative problem-solving and strategic decision-making**.  
 
-### 🔹 Database Pembocor  
-Berpengalaman dalam **analisis database yang bocor**, melakukan investigasi asal kebocoran, serta mengembangkan strategi mitigasi kebocoran data.
+### 🔹 Leaker Database & Cybersecurity Intelligence 📑  
+Experienced in analyzing **leaked databases**, tracking security breaches, and implementing **data protection strategies**.  
 
-### 🔹 Spammer  
-Memahami teknik **email spamming, SMS spamming, dan bot-driven spamming** serta cara **mitigasi serangan spam dan filtering** untuk meningkatkan keamanan sistem.
+### 🔹 Email Security & Anti-Spam Strategies 📤  
+Knowledgeable in **spam campaigns, phishing detection, and bot-driven attacks**, with expertise in implementing **advanced email security measures**.  
 
-### 🔹 Filosofi  
-Memiliki pemahaman mendalam tentang **dampak keamanan siber terhadap masyarakat, etika hacking, serta perspektif teknologi dalam perkembangan global**.
+### 🔹 Cybersecurity Philosophy & Ethical Hacking 🧮  
+Security is not just about technology—it’s about **understanding human behavior, ethics, and the evolving landscape of digital threats**.  
 
-### 🔹 Perdagangan  
-Berpengalaman dalam **cryptocurrency, e-commerce, dan keamanan transaksi digital**, memahami eksploitasi sistem pembayaran serta cara mengamankan transaksi online.
+### 🔹 Trading & Secure Transactions ⤴️  
+Familiar with **cryptocurrency security, e-commerce platforms, and secure online transactions**, ensuring **fraud prevention and encryption best practices**.  
 
-### 🔹 Analisis Malware  
-Menguasai teknik **reverse engineering, dynamic analysis, dan static analysis** untuk mendeteksi, menganalisis, serta mencegah malware seperti **ransomware, trojan, dan virus**.
+### 🔹 Malware Analysis & Reverse Engineering 👾  
+Expertise in **static and dynamic malware analysis**, tracking cyber threats, and neutralizing **ransomware, trojans, and other malicious software**.  
 
-### 🔹 Pengujian Penetrasi  
-Sebagai **penetration tester**, saya menggunakan berbagai metode **black box, white box, dan grey box testing** dengan tools seperti **Metasploit, Burp Suite, Nmap, dan Wireshark**.
-
-### 🔹 Pengembang Perangkat Lunak (Software Developer)  
-Memiliki pengalaman dalam **pengembangan aplikasi desktop, web, dan mobile** dengan fokus pada **backend security dan standar keamanan modern**.
+### 🔹 Penetration Testing & Security Audits ☺️  
+Experienced in **black-box, white-box, and grey-box penetration testing**, leveraging tools like **Metasploit, Burp Suite, Nmap, and Wireshark** to identify and mitigate vulnerabilities.  
 
 ---
 
-## 🚀 Kesimpulan  
-Dengan kombinasi keahlian ini, saya siap berkontribusi dalam **cybersecurity, ethical hacking, investigasi digital, dan pengembangan perangkat lunak**. Saya selalu terbuka untuk belajar dan berkembang di dunia teknologi yang terus berubah.
+## 🚀 Why Connect with Me?  
+🔹 Passionate about **cybersecurity, ethical hacking, and digital forensics**  
+🔹 Experienced in **security research, penetration testing, and cyber intelligence**  
+🔹 Committed to **mentoring, collaborating, and building a safer digital world**  
 
-🔗 **Hubungi Saya:**  
-📧 Email: your@email.com  
-🔗 [GitHub](https://github.com/yourusername)  
-🔗 [LinkedIn](https://linkedin.com/in/yourusername)  
+📧 **Let's Talk Security!**  
+📩  Email: Lexys_1337@protonmail.com  
+🔗 [GitHub](https://github.com/TaliGanda) 
+🔗 [Telegram](https://t.me/Lexy_Tegyo)  
+
+---
+
+🔥 **Cybersecurity is more than a profession—it’s a mission. Together, we can make the digital world safer!** 🚀  
