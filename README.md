@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, i'm Lucida.</h1>
-<p align="center"><img src="mrsanzz.svg" /></p>
+<p align="center"><img src="icegif-93.gif" /></p>
 <h3 align="center">Programmingholic | Forex Trader</h3>
 
 <p align="center">
