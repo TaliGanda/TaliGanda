@@ -1,61 +1,54 @@
-# 💻 Professional Cybersecurity & Development Profile  
+<h1 align="center">Greetings, i'm Lucida.</h1>
+<p align="center"><img src="mrsanzz.svg" /></p>
+<h3 align="center">Programmingholic | Forex Trader</h3>
 
-![Hacker GIF](icegif-93.gif)
-
-I am a **Cybersecurity Specialist, Software Developer, and Digital Analyst** with expertise in **penetration testing, security research, and automation tool development**. My passion lies in **identifying vulnerabilities, strengthening digital infrastructures, and building secure solutions** while maintaining ethical cybersecurity practices.  
-
----
-
-## 🛠 Skills & Expertise  
-
-### 🔹 Scripting Language & Coding 💻  
-Proficient in **Python, JavaScript, Bash, and PHP** for **security automation, ethical hacking, and malware analysis**.  
-
-### 🔹 Website Security & Defacement 🌊  
-Experienced in analyzing and exploiting **CMS, server, and database vulnerabilities**, while also understanding **mitigation and recovery techniques**.  
-
-### 🔹 Cracking & Reverse Engineering ⛓‍💥  
-Deep knowledge of **password cracking, software reverse engineering, and security bypass** using techniques like **brute force, dictionary attacks, and deobfuscation**.  
-
-### 🔹 DDoS Attack & Defense 🚀  
-Understanding of **volumetric, protocol, and application-layer DDoS attacks**, as well as **firewall protection, Cloudflare, and mitigation techniques**.  
-
-### 🔹 DOXING & OSINT 👀 [ID, MLY, USA, RUSSIA]  
-Skilled in **Open-Source Intelligence (OSINT)** to conduct digital investigations, track digital footprints, and analyze leaked data from public sources.  
-
-### 🔹 Motivation Skills 👥  
-Capable of **leading and inspiring teams** in high-pressure cybersecurity environments, ensuring **collaborative problem-solving and strategic decision-making**.  
-
-### 🔹 Leaker Database & Cybersecurity Intelligence 📑  
-Experienced in analyzing **leaked databases**, tracking security breaches, and implementing **data protection strategies**.  
-
-### 🔹 Email Security & Anti-Spam Strategies 📤  
-Knowledgeable in **spam campaigns, phishing detection, and bot-driven attacks**, with expertise in implementing **advanced email security measures**.  
-
-### 🔹 Cybersecurity Philosophy & Ethical Hacking 🧮  
-Security is not just about technology—it’s about **understanding human behavior, ethics, and the evolving landscape of digital threats**.  
-
-### 🔹 Trading & Secure Transactions ⤴️  
-Familiar with **cryptocurrency security, e-commerce platforms, and secure online transactions**, ensuring **fraud prevention and encryption best practices**.  
-
-### 🔹 Malware Analysis & Reverse Engineering 👾  
-Expertise in **static and dynamic malware analysis**, tracking cyber threats, and neutralizing **ransomware, trojans, and other malicious software**.  
-
-### 🔹 Penetration Testing & Security Audits ☺️  
-Experienced in **black-box, white-box, and grey-box penetration testing**, leveraging tools like **Metasploit, Burp Suite, Nmap, and Wireshark** to identify and mitigate vulnerabilities.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1DD2AF&width=435&lines=Pythonic+by+Heart;Web3+Engineer;Beep+Boop,+i+need+coffe;AI%2FML+Enthusiast;Alchemist+forex+trader;XAUUSDholic" alt="Typing SVG" /><br>
+  <img src="https://komarev.com/ghpvc/?username=MrSanZz&color=blue&style=flat-square&label=Views"></img>
+</p>
 
 ---
 
-## 🚀 Why Connect with Me?  
-🔹 Passionate about **cybersecurity, ethical hacking, and digital forensics**  
-🔹 Experienced in **security research, penetration testing, and cyber intelligence**  
-🔹 Committed to **mentoring, collaborating, and building a safer digital world**  
+### 👨‍💻 About Me
 
-📧 **Let's Talk Security!**  
-📩  Email: Lexys_1337@protonmail.com  
-🔗 [GitHub](https://github.com/TaliGanda) 
-🔗 [Telegram](https://t.me/Lexy_Tegyo)  
+- 🔭 I’m currently working on **KaLumiWare**, a big personal project
+- 🧠 Building custom Neural Networks: `DeepNN`, `ActionNN`, `HybridNN`, `SuperHybridNN`, `AlchemistNN`  
+- 🔐 Reverse Engineering & Malware Analysis enthusiast  
+- 🌐 Web & Blockchain Developer with interest in DeFi, Smart Contracts Knowledge  
+- ⚙️ I love automation, obfuscation, and system internals  
 
 ---
 
-🔥 **Cybersecurity is more than a profession—it’s a mission. Together, we can make the digital world safer!** 🚀  
+### 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Metamask](https://img.shields.io/badge/Metamask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MrSanZz&show_icons=true&theme=tokyonight&count_private=true&hide=issues&custom_title=MrSanZz's+GitHub+Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrSanZz&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrsanzz&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrSanZz&bg_color=000000&color=00ff00&line=00ffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
+</div>
+
+---
+
+### 🔗 Connect with Me
+
+[![Telegram](https://img.shields.io/badge/Telegram-%231572B6.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MrSanZzXe)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrSanZz)
+
+---
