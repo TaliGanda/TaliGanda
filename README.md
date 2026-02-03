@@ -48,7 +48,7 @@
 
 ### 🔗 Connect with Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-%231572B6.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MrSanZzXe)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrSanZz)
+[![Telegram](https://img.shields.io/badge/Telegram-%231572B6.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Lexy_Tegyo)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TaliGanda)
 
 ---
