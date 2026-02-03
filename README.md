@@ -12,16 +12,27 @@
 ### 👨‍💻 About Me
 
 💻 Scripting & Coding: Python, JavaScript, Bash, PHP (Security Automation, Ethical Hacking, Malware Analysis)
+
 🌐 Web Security: Analysis & Exploitation of CMS, Server, Database vulnerabilities (mitigation & recovery)
+
 ⛓ Reverse Engineering & Cracking: Malware analysis, deobfuscation, password cracking
+
 🚀 DDoS Attack & Defense: Understanding application/protocol/volumetric layer attacks and their mitigation
+
 👀 OSINT & Digital Investigation: Digital investigation, leaked data analysis, trace tracking
+
 📊 Cybersecurity Intelligence: Data leak analysis, security incident tracking
+
 📧 Email Security & Anti-Spam: Phishing detection, bot attack mitigation, anti-spam strategies
+
 🔍 Penetration Testing: Black-box, White-box, Grey-box testing (Metasploit, Burp Suite, Nmap, Wireshark)
+
 👾 Malware Analysis: Static & dynamic analysis of ransomware, trojans, and other malware
+
 ⤴️ Secure Transactions: Cryptocurrency security, e-commerce platforms, fraud prevention
+
 👥 Team Leadership: Team leader in high-pressure cybersecurity environments
+
 🎯 Philosophy: Security is a combination of technology, human behavior, and ethics
 
 ---
