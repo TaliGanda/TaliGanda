@@ -3,8 +3,16 @@
 <h3 align="center">Programmingholic | Forex Trader</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1DD2AF&width=435&lines=Pythonic+by+Heart;Web3+Engineer;Beep+Boop,+i+need+coffe;AI%2FML+Enthusiast;Alchemist+forex+trader;XAUUSDholic" alt="Typing SVG" /><br>
-  <img src="https://komarev.com/ghpvc/?username=TaliGanda&color=blue&style=flat-square&label=Views"></img>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1DD2AF&center=true&vCenter=true&width=600&lines=Pythonic+by+Heart;Web3+Engineer;Beep+Boop,+i+need+coffee;AI%2FML+Enthusiast;Alchemist+forex+trader;XAUUSDholic"
+    alt="Typing SVG"
+  />
+  
+  <br><br>
+
+  <img
+    src="https://komarev.com/ghpvc/?username=TaliGanda&color=blue&style=flat-square&label=Views"
+  />
 </p>
 
 ---
