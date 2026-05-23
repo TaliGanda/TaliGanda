@@ -1,19 +1,26 @@
 <h1 align="center">Greetings, i'm TaliGanda.</h1>
-<p align="center"><img src="icegif-93.gif" /></p>
-<h3 align="center">Programmingholic | Forex Trader</h3>
 
 <p align="center">
+  <img src="icegif-93.gif" width="220" />
+</p>
+
+<h3 align="center">Programmingholic | Forex Trader</h3>
+
+<div align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1DD2AF&center=true&vCenter=true&width=600&lines=Pythonic+by+Heart;Web3+Engineer;Beep+Boop,+i+need+coffee;AI%2FML+Enthusiast;Alchemist+forex+trader;XAUUSDholic"
     alt="Typing SVG"
   />
-  
-  <br><br>
+</div>
 
+<br>
+
+<div align="center">
   <img
     src="https://komarev.com/ghpvc/?username=TaliGanda&color=blue&style=flat-square&label=Views"
+    alt="Views"
   />
-</p>
+</div>
 
 ---
 
