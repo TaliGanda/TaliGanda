@@ -25,20 +25,47 @@
 ---
 
 ### 👨‍💻 About Me
-💻 Scripting & Automation: Python, JavaScript, Bash, PHP, PowerShell  
-🌐 Web Security: CMS, server, database, application hardening, mitigation, recovery  
-🔍 Penetration Testing: Black-box, white-box, and grey-box testing  
-⛓ Reverse Engineering: Malware analysis, deobfuscation, binary inspection  
-👾 Malware Research: Static and dynamic analysis of trojans, ransomware, and loaders  
-🚀 Network Defense: Traffic analysis, packet inspection, attack detection, and mitigation  
-👀 OSINT & Digital Investigation: Trace tracking, leaked-data analysis, digital footprint review  
-📊 Cyber Threat Intelligence: Incident tracking, threat monitoring, leak analysis  
-📧 Email Security: Phishing detection, anti-spam, bot mitigation  
-🧪 Security Research: Vulnerability analysis, exploit understanding, and remediation  
-⤴️ Secure Transactions: Cryptocurrency security, e-commerce safety, fraud prevention  
-📈 Trading & Market Tools: Forex workflow, automation, analysis, and decision support  
-👥 Team Leadership: Collaboration in high-pressure cybersecurity environments  
-🎯 Philosophy: Security is a combination of technology, human behavior, and ethics
+💻 **Scripting & Coding**  
+Python, JavaScript, Bash, PHP  
+(Security Automation, Ethical Hacking, Malware Analysis)
+
+🌐 **Web Security**  
+Analysis & Exploitation of CMS, Server, Database Vulnerabilities  
+(Mitigation & Recovery)
+
+⛓ **Reverse Engineering & Cracking**  
+Malware Analysis, Deobfuscation, Password Cracking
+
+🚀 **DDoS Attack & Defense**  
+Application, Protocol & Volumetric Layer Attack Mitigation
+
+👀 **OSINT & Digital Investigation**  
+Digital Investigation, Trace Tracking, Leaked Data Analysis
+
+📊 **Cybersecurity Intelligence**  
+Threat Monitoring, Incident Tracking, Leak Analysis
+
+📧 **Email Security & Anti-Spam**  
+Phishing Detection, Bot Mitigation, Anti-Spam Strategies
+
+🔍 **Penetration Testing**  
+Black-box, White-box & Grey-box Testing  
+(Metasploit, Burp Suite, Nmap, Wireshark)
+
+👾 **Malware Analysis**  
+Static & Dynamic Analysis of Ransomware, Trojans & Malware Families
+
+⤴️ **Secure Transactions**  
+Cryptocurrency Security, Fraud Prevention, E-Commerce Protection
+
+📈 **Trading & Automation**  
+Forex Workflow Automation & Market Analysis
+
+👥 **Team Leadership**  
+Leading Teams in High-Pressure Cybersecurity Environments
+
+🎯 **Philosophy**  
+Security is a combination of technology, human behavior, and ethics.
 
 ---
 
