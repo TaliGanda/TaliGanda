@@ -25,29 +25,19 @@
 ---
 
 ### 👨‍💻 About Me
-
-💻 Scripting & Coding: Python, JavaScript, Bash, PHP (Security Automation, Ethical Hacking, Malware Analysis)
-
-🌐 Web Security: Analysis & Exploitation of CMS, Server, Database vulnerabilities (mitigation & recovery)
-
-⛓ Reverse Engineering & Cracking: Malware analysis, deobfuscation, password cracking
-
-🚀 DDoS Attack & Defense: Understanding application/protocol/volumetric layer attacks and their mitigation
-
-👀 OSINT & Digital Investigation: Digital investigation, leaked data analysis, trace tracking
-
-📊 Cybersecurity Intelligence: Data leak analysis, security incident tracking
-
-📧 Email Security & Anti-Spam: Phishing detection, bot attack mitigation, anti-spam strategies
-
-🔍 Penetration Testing: Black-box, White-box, Grey-box testing (Metasploit, Burp Suite, Nmap, Wireshark)
-
-👾 Malware Analysis: Static & dynamic analysis of ransomware, trojans, and other malware
-
-⤴️ Secure Transactions: Cryptocurrency security, e-commerce platforms, fraud prevention
-
-👥 Team Leadership: Team leader in high-pressure cybersecurity environments
-
+💻 Scripting & Automation: Python, JavaScript, Bash, PHP, PowerShell  
+🌐 Web Security: CMS, server, database, application hardening, mitigation, recovery  
+🔍 Penetration Testing: Black-box, white-box, and grey-box testing  
+⛓ Reverse Engineering: Malware analysis, deobfuscation, binary inspection  
+👾 Malware Research: Static and dynamic analysis of trojans, ransomware, and loaders  
+🚀 Network Defense: Traffic analysis, packet inspection, attack detection, and mitigation  
+👀 OSINT & Digital Investigation: Trace tracking, leaked-data analysis, digital footprint review  
+📊 Cyber Threat Intelligence: Incident tracking, threat monitoring, leak analysis  
+📧 Email Security: Phishing detection, anti-spam, bot mitigation  
+🧪 Security Research: Vulnerability analysis, exploit understanding, and remediation  
+⤴️ Secure Transactions: Cryptocurrency security, e-commerce safety, fraud prevention  
+📈 Trading & Market Tools: Forex workflow, automation, analysis, and decision support  
+👥 Team Leadership: Collaboration in high-pressure cybersecurity environments  
 🎯 Philosophy: Security is a combination of technology, human behavior, and ethics
 
 ---
