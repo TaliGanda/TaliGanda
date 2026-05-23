@@ -1,7 +1,7 @@
 <h1 align="center">Greetings, i'm TaliGanda.</h1>
 
 <p align="center">
-  <img src="icegif-93.gif" width="220" />
+  <img src="icegif-93.gif" width="600" />
 </p>
 
 <h3 align="center">Programmingholic | Forex Trader</h3>
